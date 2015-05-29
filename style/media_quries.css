@@ -1,0 +1,413 @@
+   @media only screen and (max-width:767px) {
+        .banner_content h3{
+		font-size:20px;
+		}
+    }
+	@media only screen and (max-width:767px) {
+        .banner_content h2{
+		font-size:30px;
+		}
+           /*#main {
+        display: table-footer-group;
+        
+        }*/
+.explore_tracks ul li{
+height:180px;
+}		
+    }
+	@media only screen and (max-width:768px) {
+        .banner_content p{
+		font-size:13px;
+		}
+     
+    }
+	
+	@media only screen and (max-width: 320px) {
+        #hackerspace_content img{
+	display:block;
+	float:left;
+		}
+        /*#main {
+        display:table;
+        }*/
+    }	
+	
+		@media only screen and (max-width:767px) {
+       	.navbar-fixed-top, .navbar-fixed-bottom {
+position:relative;
+margin:0px;
+}
+.footer_content #company{
+padding:0 0 0 26px;
+}
+
+    }
+	
+@media only screen and (max-width:767px) {
+       	.navbar-nav {
+background:#b4dad8;
+}
+} 
+
+@media only screen and (max-width:767px) {
+       	.banner_content {
+padding: 20vh 0 0 0;}
+
+} 
+
+
+@media only screen and (max-width:767px) {
+ 
+  
+    
+     	.banner_content h3 {
+padding: 0 0 10px 0;
+}
+.tracks_list ul li{
+height:300px;
+padding: 0 8px 0 8px;
+}
+.explore_tracks #explore_tracks_content{
+padding:10px;
+}
+.hackerspace_content_text h2{
+padding:0px 0 10px 0 ;
+}
+#hackerspace_content img{
+padding:10px;
+}
+.hackerspace_content_text h2{
+font-size:28px;
+}
+.hackerspace_content_text {
+padding:20px 0 0 0 ;
+}
+.content_area_heading{
+font-size:28px;
+}
+.hackerspace_content_text #para_1{
+font-size:15px;
+padding:0 0 18px 0;
+}
+#hackerspace #hackerspace_content #para_2{
+font-size:15px;
+padding:0 0 18px 0;
+}
+
+.tracks_list ul li  a #web_development{
+padding: 150px 0px 50px 0px;
+}
+.tracks_list ul li a #Front_end{
+padding: 150px 0px 50px 0px;
+}
+.tracks_list ul li a #game_development{
+padding: 150px 0px 50px 0px;
+}
+.tracks_list ul li a #mob_development{
+padding: 150px 0px 50px 0px;
+}
+} 
+@media (min-width: 340px) and (max-width: 500px) {
+.banner_content  h3 {
+font-size:16px;
+}
+.banner_content h2{
+font-size:22px;
+}
+
+.banner_content p{
+font-size:10px;
+}
+}
+@media only screen 
+and (min-width : 320px) 
+and (max-device-width : 480px) 
+and (orientation : landscape) {.banner_content  h3 {
+font-size:16px;
+}
+.banner_content h2{
+font-size:18px;
+}
+
+.banner_content p{
+font-size:10px;
+}
+
+.tracks_list ul li a #web_development{
+padding: 150px 25px 50px 16px;
+}
+.tracks_list ul li a #Front_end{
+padding: 150px 0px 50px 0px;
+}
+.tracks_list ul li a #game_development{
+padding: 150px 0px 50px 0px;
+}
+.tracks_list ul li a #mob_development{
+padding: 150px 0px 50px 0px;
+}
+.dif_track{
+padding:10px 0px 20px;
+}
+}
+@media only screen 
+and (min-width : 320px) 
+and (max-width : 480px) 
+and (orientation : portrait) {
+.Turning_student_content_text{
+padding:10px 0 0 0 ;
+}
+.banner_content  h3 {
+font-size:16px;
+}
+.banner_content h2{
+font-size:18px;
+}
+
+.banner_content p{
+font-size:10px;
+}
+.dif_track{
+padding:10px 0px 20px;
+}
+.Tracks_content{
+padding: 20px 0 0 0;
+}
+.content_area_heading{
+
+}
+.Tracks_content h2{
+padding: 0 0 20px 0;
+}
+.talks_content_txt p{
+font-size:18px;
+}
+.Views_content{
+padding:10px 0 0 0 ;
+float:none;
+}
+.footer_content #company{
+padding:0 0 0 26px;
+}
+.footer_content1_social ul{
+padding:13px 0 0 15px;
+}
+.footer_content1_terms{
+font-size:13px;
+}
+.footer_content #community h2{
+font-size:13px;
+padding:5px 0 0 0;
+}
+.footer_content #community ul li a{
+font-size:10px;
+}
+.footer_content #community ul li {
+padding:0 0 10px 0;
+}
+.footer_content #company h2{
+font-size:13px;
+padding:5px 0 0 0;
+}
+.footer_content #company ul li a{
+font-size:10px;
+}
+.footer_content #company ul li {
+padding:0 0 10px 0;
+}
+.footer_content #get_updates #get_updates_text{
+margin:0 0 10px 0;
+width:340px;
+}
+.footer_content #get_updates #get_updates_para1{
+padding:0 0 15px 0;
+}
+.footer_content #get_updates #get_updates_para2{
+padding:0 0 15px 0;
+}
+.Views_content_text{
+padding:0px
+}
+.Views_content_text .qouts{
+background-position:22px;
+}
+.Views_content_text #qouts_para1{
+margin: 16px 0 0 0 ;
+}
+.tracks_list ul li a #web_development{
+padding: 150px 20px 50px 20px;
+}
+}
+
+
+@media only screen 
+and (min-width : 768px) 
+and (max-width : 990px)
+and (orientation : landscape)
+{
+.hackerspace_content_text #para_1{
+padding:0 0 10px 0;
+}
+.banner_content h3{
+font-size:50px
+}
+.banner_content h2{
+font-size:70px;
+}
+#Turning_student_P2{
+padding:0 0 20px 0; 
+}
+}
+@media only screen 
+and (min-width : 768px) 
+and (max-width : 990px)
+and (orientation : portrait)
+{
+.hackerspace_content_text #para_1{
+padding:0 0 10px 0;
+}
+.banner_content h3{
+font-size:50px
+}
+.banner_content h2{
+font-size:70px;
+}
+#Turning_student_P2{
+padding:0 0 20px 0; 
+}
+}
+@media  (max-width : 990px) 
+{
+.Turning_student_content_text{
+padding:10px 0 0 0 ;
+}
+}
+@media  (max-width : 767px) 
+{
+.Courses_content #Courses_content_para{
+font-size:18px;
+}
+.footer_content #get_updates #get_updates_btn{
+bottom: 4px;
+position: absolute;
+background: url("../content/v2.0/Images/go.png") no-repeat;
+right: 15px;
+text-indent: -99999px;
+height:50px;
+width:50px;
+border:none;
+}
+.footer_content #get_updates #get_updates_btn:hover{
+background:url("../content/v2.0/Images/go.png") no-repeat;
+text-indent: -99999px;
+height:50px;
+width:50px;
+border:none;
+
+}
+.stay_tuned_content ul{
+padding:0;
+}
+.stay_tuned_content #text_fields_btn{
+margin:0 0 20px 0;
+}
+.stay_tuned_content input{
+width:234px;
+margin: 0px 0 20px 0;
+font-size:20px;
+}
+.stay_tuned_content h2{
+font-size:30px;
+padding:12px 0 15px 0;
+}
+.talks_content img{
+padding:20px 0 0 0;
+}
+.talks_content_txt{
+padding:10px 0 0 0;
+}
+.content_area_heading{
+padding: 0 0 15px 0;
+}
+.talks_content_txt p{
+font-size:18px;
+}
+   -
+}
+@media  (min-width : 767px) {
+.footer_content1_social ul{
+padding: 0 0 0 123px;
+}
+   
+    
+}
+@media only screen and (max-width:768px) {
+       .tracks_list ul li a #web_development{
+		font-size:18px;
+		}	
+       .banner {
+    height:50%;
+}
+    }
+@media only screen and (max-width:768px) {
+       .tracks_list ul li a #Front_end{
+		font-size:18px;
+		}
+  
+    }
+	
+@media only screen and (max-width:768px) {
+       .tracks_list ul li a #mob_development{
+		font-size:18px;
+		}	
+    }
+	@media only screen and (max-width:768px) {
+      .tracks_list ul li a #game_development{
+		font-size:18px;
+		}	
+
+	@media only screen and (max-width:768px) {
+     .explore_tracks ul li a #Game{
+		font-size:22px;
+		}	
+    }
+	@media only screen and (max-width:768px) {
+     .explore_tracks ul li a #web{
+		font-size:22px;
+		}	
+    }
+	@media only screen and (max-width:768px) {
+      .explore_tracks ul li a #Mobile{
+		font-size:22px;
+		}	
+    }
+	@media only screen and (max-width:720px) {
+       .tracks_list ul li a #Front_end{
+		font-size:18px;
+		}
+    #top {
+    width:100% !important;
+}
+    }
+
+    	
+@media only screen and (max-width:px) {
+       	.navbar-nav {
+background:#b4dad8;
+}
+} 
+    }
+@media only screen and (max-width:480px) {
+     .head #top .nav-btn{
+		  position: relative;
+  float: right;
+  background: red;
+  top: 20px;
+  margin: 0;
+  width: 28px;
+  height: 24px;
+  left: 0;
+		}
+    .container.head {
+    padding-right:0;
+    }
+    }

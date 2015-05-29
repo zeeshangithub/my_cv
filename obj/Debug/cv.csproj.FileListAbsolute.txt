@@ -1,0 +1,6 @@
+c:\users\ch shan\documents\visual studio 2013\Test\cv\cv\bin\cv.dll.config
+c:\users\ch shan\documents\visual studio 2013\Test\cv\cv\bin\cv.dll
+c:\users\ch shan\documents\visual studio 2013\Test\cv\cv\bin\cv.pdb
+c:\users\ch shan\documents\visual studio 2013\Test\cv\cv\obj\Debug\cv.csprojResolveAssemblyReference.cache
+c:\users\ch shan\documents\visual studio 2013\Test\cv\cv\obj\Debug\cv.dll
+c:\users\ch shan\documents\visual studio 2013\Test\cv\cv\obj\Debug\cv.pdb
